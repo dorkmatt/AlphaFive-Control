@@ -1,0 +1,6 @@
+writeTime KEYWORD2
+writeWord KEYWORD2
+writeNumber KEYWORD2
+clear KEYWORD2
+setBrightness KEYWORD2
+setFont KEYWORD2
